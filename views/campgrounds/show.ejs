@@ -42,7 +42,7 @@
         <%= campground.author.username %>
       </li>
       <li class="list-group-item">$<%= campground.price %>/night</li>
-      <li class="list-group-item">Vestibulum at eros</li>
+      
     </ul>
     <% if(currentUser && campground.author.equals(currentUser._id)){%>
       <div class="card-body">
