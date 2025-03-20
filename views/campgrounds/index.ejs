@@ -11,14 +11,11 @@
     <div class="row">
       <div class="col-md-4">
         <% if (campground.images.length > 0) { %>
-          <img crossorigin="anonymous" class="img-fluid" style="max-width: 100%; height: auto; object-fit: cover;" 
+          <img crossorigin="anonymous" class="img-fluid" 
+               style="max-width: 100%; height: auto; object-fit: cover;" 
                src="<%= campground.images[0].url %>" 
-              >
-        <% } else { %>
-          <img crossorigin="anonymous" class="img-fluid" style="max-width: 100%; height: auto; object-fit: cover;" 
-               src="https://res.cloudinary.com/dltayqicd/image/upload/v1739078650/yelpcamp/hlupob4xuidyy0qtz1ej.png" 
-               alt="Default Image">
-        <% } %>
+               alt="Campground Image">
+      <% } %>
       </div>
       <div class="col-md-8">
         <div class="card-body">
