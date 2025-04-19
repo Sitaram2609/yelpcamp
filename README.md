@@ -70,5 +70,31 @@ YelpCamp/
 ## Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
+
+## IMAGES:
+
+
+Homepage:
+(https://github.com/user-attachments/assets/f51c2259-61f1-4096-a1e1-2ba4af0b3de1)
+
+
+Login and register:
+(https://github.com/user-attachments/assets/1e928d81-1a0d-4fdf-b8c6-2fe771204990)
+
+(https://github.com/user-attachments/assets/5ca1a5e2-1765-4d63-8248-d687e340e070)
+
+Main page:
+(https://github.com/user-attachments/assets/c19d87ef-ca88-46f0-b26c-b8a95790dcfa)
+
+Show page:
+(https://github.com/user-attachments/assets/7bc24cad-d5e9-4985-adb1-041f0de3789e)
+
+Add campground:
+(https://github.com/user-attachments/assets/f875b491-2917-43de-a291-0fd7673bdb2d)
+
+Edit campground:
+(https://github.com/user-attachments/assets/50f1fd93-f9a5-48ed-a7ed-709aeca3937b)
+
+
+
+
